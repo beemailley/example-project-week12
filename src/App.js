@@ -10,8 +10,8 @@ export const App = () => {
   return (
     <div>
       <ThinnerCard
-        coverImage="https://www.fillmurray.com/500/300"
-        thumbnailUrl="https://www.fillmurray.com/100/100"
+        coverImage="https://picsum.photos/500/300"
+        thumbnailUrl="https://picsum.photos/100/100"
         title="This is the title"
         secondaryText="Secondary title">
         Child content here!
